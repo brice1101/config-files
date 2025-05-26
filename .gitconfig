@@ -1,3 +1,18 @@
 [user]
 	name = brice1101
 	email = brice1101@proton.me
+    
+[core]
+    editor = vim
+    autocrlf = input
+    pager = less -F -X
+
+[color]
+    ui = auto
+
+[alias]
+    st = status
+    co = checkout
+    br = branch
+    cm = commit
+    df = diff
